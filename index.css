@@ -3,11 +3,11 @@ body{
 }
 header h1{
     text-align: center;
-    font-size: 40px;
+    font-size: 40 px;
     color: black;
 }
 header{
-    padding: 30px;
+    padding: 30 px;
     background-color: cornflowerblue;
 }
 nav{
@@ -19,7 +19,7 @@ nav a:visited{
 }
 nav a{
     text-decoration: none;
-    padding: 30px;
+    padding: 30 px;
     text-align: center;
     float: left;
     color: antiquewhite;
@@ -35,7 +35,7 @@ nav a{
     }
     FOOTER A{
         text-decoration: none;
-        padding: 20px;
+        padding: 20 px;
         text-align: center;
         float: left;
         color: antiquewhite;
@@ -44,3 +44,5 @@ nav a{
         background-color: brown;
 
     }
+    
+    
